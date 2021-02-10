@@ -1,4 +1,4 @@
-# Eclair Group:  
+# Eclair Fare Matrix Group:  
 
 
 Brazal, Mathew Clint - mock up designs / visual UI/UX
