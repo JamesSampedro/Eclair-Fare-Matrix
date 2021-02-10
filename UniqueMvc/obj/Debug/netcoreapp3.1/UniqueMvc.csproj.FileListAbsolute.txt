@@ -1,0 +1,457 @@
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.exe
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.deps.json
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.runtimeconfig.json
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.runtimeconfig.dev.json
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.pdb
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.Views.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.Views.pdb
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csprojAssemblyReference.cache
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.AssemblyInfoInputs.cache
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.AssemblyInfo.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csproj.CoreCompileInputs.cache
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorAssemblyInfo.cache
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorAssemblyInfo.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\staticwebassets\l.StaticWebAssets.Manifest.cache
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\staticwebassets\l.StaticWebAssets.xml
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\l.styles.css
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.TagHelpers.input.cache
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.TagHelpers.output.cache
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorCoreGenerate.cache
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddGrade.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Grade.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MyStudents.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpsertGrade.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Secret.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorTargetAssemblyInfo.cache
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorTargetAssemblyInfo.cs
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.Views.pdb
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csproj.CopyComplete
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.dll
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.pdb
+C:\Users\mayonnaise man\Downloads\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.genruntimeconfig.cache
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.exe
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.deps.json
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.runtimeconfig.json
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.runtimeconfig.dev.json
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.pdb
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.Views.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.Views.pdb
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csprojAssemblyReference.cache
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.AssemblyInfoInputs.cache
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.AssemblyInfo.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csproj.CoreCompileInputs.cache
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorAssemblyInfo.cache
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorAssemblyInfo.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.TagHelpers.input.cache
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.TagHelpers.output.cache
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorCoreGenerate.cache
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddGrade.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Grade.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MyStudents.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpsertGrade.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Secret.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorTargetAssemblyInfo.cache
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorTargetAssemblyInfo.cs
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.Views.pdb
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csproj.CopyComplete
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\staticwebassets\l.StaticWebAssets.Manifest.cache
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\staticwebassets\l.StaticWebAssets.xml
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.dll
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.pdb
+C:\Users\acer'\source\repos\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.genruntimeconfig.cache
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.exe
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.deps.json
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.runtimeconfig.json
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.runtimeconfig.dev.json
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.pdb
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.Views.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.Views.pdb
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csprojAssemblyReference.cache
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.AssemblyInfoInputs.cache
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.AssemblyInfo.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csproj.CoreCompileInputs.cache
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorAssemblyInfo.cache
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorAssemblyInfo.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.TagHelpers.input.cache
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.TagHelpers.output.cache
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorCoreGenerate.cache
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddGrade.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Grade.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MyStudents.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpsertGrade.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Secret.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorTargetAssemblyInfo.cache
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorTargetAssemblyInfo.cs
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.Views.pdb
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csproj.CopyComplete
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\staticwebassets\l.StaticWebAssets.Manifest.cache
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\staticwebassets\l.StaticWebAssets.xml
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.dll
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.pdb
+C:\Users\jamez\Desktop\real\UniqueMvc-master-updated\UniqueMvc-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.genruntimeconfig.cache
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.exe
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.deps.json
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.runtimeconfig.json
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.runtimeconfig.dev.json
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.pdb
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.Views.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.Views.pdb
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csprojAssemblyReference.cache
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.AssemblyInfoInputs.cache
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.AssemblyInfo.cs
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csproj.CoreCompileInputs.cache
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.MvcApplicationPartsAssemblyInfo.cache
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorAssemblyInfo.cache
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorAssemblyInfo.cs
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.TagHelpers.input.cache
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.TagHelpers.output.cache
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorCoreGenerate.cache
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorTargetAssemblyInfo.cache
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorTargetAssemblyInfo.cs
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.Views.pdb
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csproj.CopyComplete
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\staticwebassets\l.StaticWebAssets.Manifest.cache
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\staticwebassets\l.StaticWebAssets.xml
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.dll
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.pdb
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.genruntimeconfig.cache
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+F:\Downloads\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.exe
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.deps.json
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.runtimeconfig.json
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.runtimeconfig.dev.json
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.pdb
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.Views.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\l.Views.pdb
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csprojAssemblyReference.cache
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.AssemblyInfoInputs.cache
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.AssemblyInfo.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csproj.CoreCompileInputs.cache
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorAssemblyInfo.cache
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorAssemblyInfo.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.TagHelpers.input.cache
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.TagHelpers.output.cache
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorCoreGenerate.cache
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorTargetAssemblyInfo.cache
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.RazorTargetAssemblyInfo.cs
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.Views.pdb
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.csproj.CopyComplete
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\staticwebassets\l.StaticWebAssets.Manifest.cache
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\staticwebassets\l.StaticWebAssets.xml
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.dll
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\l.pdb
+C:\Users\jamez\source\repos\ADET-MIDTERM-Q2-Eclair-master\UniqueMvc\obj\Debug\netcoreapp3.1\UniqueMvc.genruntimeconfig.cache

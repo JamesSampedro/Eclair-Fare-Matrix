@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>l</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20201209101110_init.cs" />
+    <Compile Remove="Migrations\20201209101110_init.Designer.cs" />
+    <Compile Remove="Migrations\20201209115740_initial.cs" />
+    <Compile Remove="Migrations\20201209115740_initial.Designer.cs" />
+    <Compile Remove="Migrations\20201209130531_recover.cs" />
+    <Compile Remove="Migrations\20201209130531_recover.Designer.cs" />
+    <Compile Remove="Migrations\20201209131950_init.cs" />
+    <Compile Remove="Migrations\20201209131950_init.Designer.cs" />
+    <Compile Remove="Migrations\20201209144132_seed.cs" />
+    <Compile Remove="Migrations\20201209144132_seed.Designer.cs" />
+    <Compile Remove="Migrations\20201221063235_initGradeds.cs" />
+    <Compile Remove="Migrations\20201221063235_initGradeds.Designer.cs" />
+    <Compile Remove="Migrations\20201221063915_initGrades.cs" />
+    <Compile Remove="Migrations\20201221063915_initGrades.Designer.cs" />
+    <Compile Remove="Migrations\20210210033729_initial.cs" />
+    <Compile Remove="Migrations\20210210033729_initial.Designer.cs" />
+    <Compile Remove="Migrations\20210210035126_initial.cs" />
+    <Compile Remove="Migrations\20210210035126_initial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
